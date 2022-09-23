@@ -1,0 +1,1 @@
+# Natural-Disasters-Itensity-Analysis-and-Classification-using-Artificial-Intelligence-
